@@ -21,28 +21,3 @@ body {
   height: 100%;
   pointer-events: none;
 }
-
-.btn {
-  width: 200px;
-}
-
-.dropdown-menu {
-  background-color: goldenrod !important;
-  width: 200px;
-  height: 400px;
-}
-
-.dropdown-item {
-  color: white !important;
-}
-
-.dropdown-item:hover {
-  background-color: rgb(206, 183, 126) !important;
-}
-
-.logo {
-  position: absolute;
-  top: 10px;
-  left: 10px;
-  width: 200px;
-}
